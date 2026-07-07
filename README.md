@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PavanNagesh/DSACodes/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/PavanNagesh/DSACodes/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/PavanNagesh/DSACodes/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/PavanNagesh/DSACodes/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PavanNagesh/DSACodes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
