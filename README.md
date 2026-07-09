@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PavanNagesh/DSACodes/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/PavanNagesh/DSACodes/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/PavanNagesh/DSACodes/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/PavanNagesh/DSACodes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PavanNagesh/DSACodes/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/PavanNagesh/DSACodes/tree/master/0704-binary-search) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/PavanNagesh/DSACodes/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/PavanNagesh/DSACodes/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/PavanNagesh/DSACodes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PavanNagesh/DSACodes/tree/master/0344-reverse-string) |
 ## String
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PavanNagesh/DSACodes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PavanNagesh/DSACodes/tree/master/0169-majority-element) |
 ## Counting
 |  |
