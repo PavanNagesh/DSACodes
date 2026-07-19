@@ -27,11 +27,14 @@ public:
             return NULL;
         }
 
+        // ListNode* prev = NULL; 
         slow = head;
         while(slow != fast){
             slow = slow->next;
+            // prev = fast;
             fast = fast->next;
         }
+        // prev->next = NULL;
         return slow;
 
     }
