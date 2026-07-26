@@ -1,4 +1,4 @@
-SELECT s.product_id, s1.first_year, s.quantity, s.price
+SELECT s1.product_id, s1.first_year, s.quantity, s.price
 FROM Sales as s
 JOIN (
     SELECT
