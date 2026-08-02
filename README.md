@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PavanNagesh/DSACodes/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PavanNagesh/DSACodes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PavanNagesh/DSACodes/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/PavanNagesh/DSACodes/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/PavanNagesh/DSACodes/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/PavanNagesh/DSACodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PavanNagesh/DSACodes/tree/master/0503-next-greater-element-ii) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PavanNagesh/DSACodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PavanNagesh/DSACodes/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/PavanNagesh/DSACodes/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
