@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/PavanNagesh/DSACodes/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/PavanNagesh/DSACodes/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/PavanNagesh/DSACodes/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/PavanNagesh/DSACodes/tree/master/0550-game-play-analysis-iv) |
