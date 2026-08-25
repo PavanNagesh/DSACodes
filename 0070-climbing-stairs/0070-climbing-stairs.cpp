@@ -1,7 +1,7 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        if(n == 1){
+        if(n == 1 || n == 2){
             return n;
         }
 
@@ -10,7 +10,7 @@ public:
 
         int result = prev1;
 
-        for(int i = 2; i < n; i++){
+        for(int i = 3; i <= n; i++){
             result = prev1 + prev2;
             prev2 = prev1;
             prev1 = result;
