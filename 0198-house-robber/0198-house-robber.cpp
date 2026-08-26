@@ -5,12 +5,21 @@ public:
         if(n == 1){
             return nums[0];
         }
-        vector<int> dp(n);
-        dp[0] = nums[0];
-        dp[1] = max(nums[0], nums[1]);
+        //vector<int> dp(n);
+        // dp[0] = nums[0];
+        // dp[1] = max(nums[0], nums[1]);
+
+        int prev1 = nums[0];
+        int prev2 = max(nums[0], nums[1]);
+
+        int result = prev2;
+
         for(int i = 2; i < n; i++){
-            dp[i] = max(dp[i-1], dp[i-2] + nums[i]);
+            prev2 = prev1;
+            prev1 = result; 
+            result = max(prev2 + nums[i], prev1);
+
         }
-        return dp[n-1];
+        return result;
     }
 };
