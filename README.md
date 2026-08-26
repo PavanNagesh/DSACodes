@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PavanNagesh/DSACodes/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PavanNagesh/DSACodes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PavanNagesh/DSACodes/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/PavanNagesh/DSACodes/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/PavanNagesh/DSACodes/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/PavanNagesh/DSACodes/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/PavanNagesh/DSACodes/tree/master/0496-next-greater-element-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PavanNagesh/DSACodes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PavanNagesh/DSACodes/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/PavanNagesh/DSACodes/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/PavanNagesh/DSACodes/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
