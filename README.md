@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PavanNagesh/DSACodes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PavanNagesh/DSACodes/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/PavanNagesh/DSACodes/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/PavanNagesh/DSACodes/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/PavanNagesh/DSACodes/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/PavanNagesh/DSACodes/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/PavanNagesh/DSACodes/tree/master/0287-find-the-duplicate-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PavanNagesh/DSACodes/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanNagesh/DSACodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PavanNagesh/DSACodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PavanNagesh/DSACodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PavanNagesh/DSACodes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/PavanNagesh/DSACodes/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/PavanNagesh/DSACodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PavanNagesh/DSACodes/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/PavanNagesh/DSACodes/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PavanNagesh/DSACodes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/PavanNagesh/DSACodes/tree/master/0200-number-of-islands) |
 ## String Matching
 |  |
 | ------- |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PavanNagesh/DSACodes/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/PavanNagesh/DSACodes/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
