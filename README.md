@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/PavanNagesh/DSACodes/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PavanNagesh/DSACodes/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/PavanNagesh/DSACodes/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/PavanNagesh/DSACodes/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanNagesh/DSACodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PavanNagesh/DSACodes/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/PavanNagesh/DSACodes/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanNagesh/DSACodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/PavanNagesh/DSACodes/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PavanNagesh/DSACodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/PavanNagesh/DSACodes/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/PavanNagesh/DSACodes/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
