@@ -4,7 +4,7 @@ public:
         vector<int> arr;
         unordered_map<int, int> m;
         int n = nums.size();
-        for(int i = 0; i < n; i++){
+        for(int i = 0 ; i < n; i++){
             int first = nums[i];
             int second = target - first;
             if(m.find(second) != m.end()){
@@ -15,7 +15,5 @@ public:
             m[first] = i;
         }
         return arr;
-
-
     }
 };
