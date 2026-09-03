@@ -7,7 +7,6 @@ public:
         for(int i = 0; i < n; i++){
             if(s.find(nums[i]) != s.end()){
                 ans = nums[i];
-                break;
             }
             s.insert(nums[i]);
         }
