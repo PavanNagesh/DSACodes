@@ -7,7 +7,6 @@ public:
 
         int prev1 = 2;
         int prev2 = 1;
-
         int result = prev1;
 
         for(int i = 3; i <= n; i++){
@@ -15,7 +14,6 @@ public:
             prev2 = prev1;
             prev1 = result;
         }
-
         return result;
     }
 };
