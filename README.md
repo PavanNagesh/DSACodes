@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PavanNagesh/DSACodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PavanNagesh/DSACodes/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PavanNagesh/DSACodes/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/PavanNagesh/DSACodes/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PavanNagesh/DSACodes/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/PavanNagesh/DSACodes/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanNagesh/DSACodes/tree/master/2965-find-missing-and-repeated-values) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PavanNagesh/DSACodes/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/PavanNagesh/DSACodes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PavanNagesh/DSACodes/tree/master/0213-house-robber-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/PavanNagesh/DSACodes/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PavanNagesh/DSACodes/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
