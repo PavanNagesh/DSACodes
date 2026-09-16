@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/PavanNagesh/DSACodes/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PavanNagesh/DSACodes/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/PavanNagesh/DSACodes/tree/master/0994-rotting-oranges) |
+| [1710-maximum-units-on-a-truck](https://github.com/PavanNagesh/DSACodes/tree/master/1710-maximum-units-on-a-truck) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanNagesh/DSACodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PavanNagesh/DSACodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PavanNagesh/DSACodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PavanNagesh/DSACodes/tree/master/0169-majority-element) |
+| [1710-maximum-units-on-a-truck](https://github.com/PavanNagesh/DSACodes/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PavanNagesh/DSACodes/tree/master/0011-container-with-most-water) |
+| [1710-maximum-units-on-a-truck](https://github.com/PavanNagesh/DSACodes/tree/master/1710-maximum-units-on-a-truck) |
 ## Pigeonhole Principle
 |  |
 | ------- |
