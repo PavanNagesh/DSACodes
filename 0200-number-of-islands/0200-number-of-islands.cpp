@@ -24,7 +24,7 @@ public:
             for(int j = 0; j < m; j++){
                 if(grid[i][j] == '1' && !vis[i][j]){
                     dfs(i, j, vis, grid, n, m);
-                    islands++;
+                    islands ++;
                 }
             }
         }
