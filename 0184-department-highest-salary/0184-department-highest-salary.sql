@@ -1,11 +1,8 @@
-SELECT Department, Employee, salary as Salary
+SELECT Department, Employee, salary AS Salary
 FROM(
-    SELECT d.name as Department, 
-        e.name as Employee,
-        e.salary, 
-        MAX(e.salary) OVER(PARTITION BY e.departmentId) as max_dept
-    FROM Employee as e
-    JOIN Department as d
+    SELECT d.name as Department, e.name as Employee, e.salary as Salary, MAX(e.salary) OVER(PARTITION BY e.departmentId) AS max_dept
+    FROM Employee e
+    JOIN Department d
     ON e.departmentId = d.id
-) as t
-WHERE salary = max_dept;
+) m
+WHERE salary = max_dept
