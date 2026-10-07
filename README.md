@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PavanNagesh/DSACodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PavanNagesh/DSACodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PavanNagesh/DSACodes/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanNagesh/DSACodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PavanNagesh/DSACodes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PavanNagesh/DSACodes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PavanNagesh/DSACodes/tree/master/0198-house-robber) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PavanNagesh/DSACodes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PavanNagesh/DSACodes/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/PavanNagesh/DSACodes/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanNagesh/DSACodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PavanNagesh/DSACodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PavanNagesh/DSACodes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PavanNagesh/DSACodes/tree/master/0287-find-the-duplicate-number) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanNagesh/DSACodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/PavanNagesh/DSACodes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PavanNagesh/DSACodes/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/PavanNagesh/DSACodes/tree/master/0704-binary-search) |
