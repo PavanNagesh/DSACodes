@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/PavanNagesh/DSACodes/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/PavanNagesh/DSACodes/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PavanNagesh/DSACodes/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/PavanNagesh/DSACodes/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/PavanNagesh/DSACodes/tree/master/0994-rotting-oranges) |
 | [1710-maximum-units-on-a-truck](https://github.com/PavanNagesh/DSACodes/tree/master/1710-maximum-units-on-a-truck) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanNagesh/DSACodes/tree/master/2965-find-missing-and-repeated-values) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/PavanNagesh/DSACodes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PavanNagesh/DSACodes/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/PavanNagesh/DSACodes/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/PavanNagesh/DSACodes/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PavanNagesh/DSACodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PavanNagesh/DSACodes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PavanNagesh/DSACodes/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/PavanNagesh/DSACodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/PavanNagesh/DSACodes/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
