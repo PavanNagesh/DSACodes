@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isAlphanum(char c){
+    bool isAlphaNum(char c){
         if(tolower(c) >= 'a' && tolower(c) <= 'z' || c >= '0' && c <= '9'){
             return true;
         } else{
@@ -10,22 +10,27 @@ public:
 
     bool isPalindrome(string s) {
         int start = 0;
-        int end = s.length()-1;
+        int end = s.length() - 1;
+
         while(start < end){
-            if( !isAlphanum(s[start])){
+            if(!isAlphaNum(s[start])){
                 start++;
                 continue;
             }
-            if( !isAlphanum(s[end])){
+
+            if(!isAlphaNum(s[end])){
                 end--;
                 continue;
             }
+
             if(tolower(s[start]) != tolower(s[end])){
                 return false;
             }
+
             start++;
             end--;
         }
+
         return true;
     }
 };
