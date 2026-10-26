@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PavanNagesh/DSACodes/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/PavanNagesh/DSACodes/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/PavanNagesh/DSACodes/tree/master/0994-rotting-oranges) |
+| [1480-running-sum-of-1d-array](https://github.com/PavanNagesh/DSACodes/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/PavanNagesh/DSACodes/tree/master/1710-maximum-units-on-a-truck) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanNagesh/DSACodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PavanNagesh/DSACodes/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/PavanNagesh/DSACodes/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
