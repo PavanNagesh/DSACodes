@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PavanNagesh/DSACodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PavanNagesh/DSACodes/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PavanNagesh/DSACodes/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/PavanNagesh/DSACodes/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/PavanNagesh/DSACodes/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PavanNagesh/DSACodes/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/PavanNagesh/DSACodes/tree/master/0977-squares-of-a-sorted-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PavanNagesh/DSACodes/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/PavanNagesh/DSACodes/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/PavanNagesh/DSACodes/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
