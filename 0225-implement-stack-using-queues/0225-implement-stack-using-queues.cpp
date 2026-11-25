@@ -20,9 +20,9 @@ public:
     }
     
     int pop() {
-        int ans = q1.front();
+        int ret = q1.front();
         q1.pop();
-        return ans;
+        return ret;
     }
     
     int top() {
