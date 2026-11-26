@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/PavanNagesh/DSACodes/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/PavanNagesh/DSACodes/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/PavanNagesh/DSACodes/tree/master/1480-running-sum-of-1d-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavanNagesh/DSACodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/PavanNagesh/DSACodes/tree/master/1710-maximum-units-on-a-truck) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanNagesh/DSACodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PavanNagesh/DSACodes/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PavanNagesh/DSACodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PavanNagesh/DSACodes/tree/master/0503-next-greater-element-ii) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavanNagesh/DSACodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/PavanNagesh/DSACodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PavanNagesh/DSACodes/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/PavanNagesh/DSACodes/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavanNagesh/DSACodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -348,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/PavanNagesh/DSACodes/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavanNagesh/DSACodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
