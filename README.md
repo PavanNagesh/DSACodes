@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/PavanNagesh/DSACodes/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavanNagesh/DSACodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/PavanNagesh/DSACodes/tree/master/1710-maximum-units-on-a-truck) |
+| [2073-time-needed-to-buy-tickets](https://github.com/PavanNagesh/DSACodes/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/PavanNagesh/DSACodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PavanNagesh/DSACodes/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/PavanNagesh/DSACodes/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavanNagesh/DSACodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/PavanNagesh/DSACodes/tree/master/2073-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -355,4 +357,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavanNagesh/DSACodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/PavanNagesh/DSACodes/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
