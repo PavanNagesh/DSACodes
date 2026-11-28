@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PavanNagesh/DSACodes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PavanNagesh/DSACodes/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/PavanNagesh/DSACodes/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PavanNagesh/DSACodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PavanNagesh/DSACodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PavanNagesh/DSACodes/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/PavanNagesh/DSACodes/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PavanNagesh/DSACodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PavanNagesh/DSACodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
